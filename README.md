@@ -2,7 +2,9 @@
 
 [About Me](https://glucn.github.io/)
 
+<!-- 
 ![glucn's github stats](https://github-readme-stats.vercel.app/api?username=glucn&theme=buefy&show_icons=true)
+-->
 ![glucn's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glucn&theme=buefy&layout=compact&hide=MATLAB)
 
 <!--
