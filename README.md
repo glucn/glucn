@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[About Me](https://glucn.github.io/)
+[About Me](https://glucn.com/)
 
 <!-- 
 ![glucn's github stats](https://github-readme-stats.vercel.app/api?username=glucn&theme=buefy&show_icons=true)
